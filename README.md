@@ -5,7 +5,7 @@
 </div>
 <!--
 **MichelleT-Portfolio/MichelleT-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github.com/MichelleT-Portfolio/MichelleT-Portfolio/blob/main/Michelle Tzeng.png" alt="my creative profile pic">
+<img src="https://github.com/MichelleT-Portfolio/MichelleT-Portfolio/blob/main/[Michelle Tzeng.png]https://github.com/MichelleT-Portfolio/MichelleT-Portfolio/blob/2f1772d707f0def9f9169fdff9bec9f9d48ba1fe/Michelle%20Tzeng.png" alt="my creative profile pic">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

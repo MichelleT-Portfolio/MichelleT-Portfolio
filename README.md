@@ -40,7 +40,7 @@ Passionate about turning data into insights and insights into action! I speciali
 <br>
 
 <div align="center">
-  <a href="michelle442277@gmail.com">
+  <a href="michelletzengcontact@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="http://www.linkedin.com/in/michelle-tzeng-336a441a6" target="_blank">

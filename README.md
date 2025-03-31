@@ -11,13 +11,30 @@
 ### A Marketing Professional devoted to make impactful milestone through data, AI & ML! 
 ### Believing data can be interesting and create powerful changes! 
 
-- 🌱 Industry Experience in
-   **[Marketing](https://github.com/MichelleT-Portfolio/Marketing_Prediction)**,
+🚀 Marketing Analyst | Data-Driven Strategist | Growth Optimizer
+
+Passionate about turning data into insights and insights into action! I specialize in market research, predictive modeling, and digital marketing optimization, using Python, SQL, and Excel to decode consumer behavior and drive strategic decision-making.
+
+🔍 What I Do:
+
+📊 Data-Driven Marketing – Optimize campaigns & enhance targeting through analytics.
+
+🎯 Predictive Modeling & Segmentation – Forecast trends and personalize engagement.
+
+🌎 International Market Expansion – Competitive analysis & strategic growth planning.
+
+🔄 Automation & Optimization – Streamlining operations for efficiency.
+
+📂 Industry Experience:
+  **[Marketing](https://github.com/MichelleT-Portfolio/Marketing_Prediction)**,
    **[Banking](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry)**,
    **[Healthcare](https://github.com/MichelleT-Portfolio/Healthcare_Industry)**,
    **[Education](https://github.com/MichelleT-Portfolio/Education_Industry)**,
    **[Human Resource](https://github.com/MichelleT-Portfolio/Human-Resource_Industry)**
-  
+
+💡 Always curious, adaptable, and driven to solve complex problems with data and creativity!
+
+### Let’s connect and build something impactful! 🚀
 
 
 <br>

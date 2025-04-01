@@ -26,11 +26,12 @@ Passionate about turning data into insights and insights into action! I speciali
 🔄 Automation & Optimization – Streamlining operations for efficiency.
 
 📂 Industry Experience:
-  **[Marketing](https://github.com/MichelleT-Portfolio/Marketing_Prediction)**,
-   **[Banking](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry)**,
-   **[Healthcare](https://github.com/MichelleT-Portfolio/Healthcare_Industry)**,
-   **[Education](https://github.com/MichelleT-Portfolio/Education_Industry)**,
-   **[Human Resource](https://github.com/MichelleT-Portfolio/Human-Resource_Industry)**
+      **[Retail & Consumer Goods](https://github.com/MichelleT-Portfolio/Retail_ConsumerGoods-Industries)** /
+      **[Banking](https://github.com/MichelleT-Portfolio/Banking-Insurance-Industry)** /
+      **[Transportation & Customer Experience](https://github.com/MichelleT-Portfolio/Transportation_CustomerX_Industries)** /
+      **[Healthcare](https://github.com/MichelleT-Portfolio/Healthcare_Industry)** /
+      **[Education](https://github.com/MichelleT-Portfolio/Education_Industry)** /
+      **[Human Resource](https://github.com/MichelleT-Portfolio/Human-Resource_Industry)**
 
 💡 Always curious, adaptable, and driven to solve complex problems with data and creativity!
 

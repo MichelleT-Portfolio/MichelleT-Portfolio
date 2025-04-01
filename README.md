@@ -62,6 +62,6 @@ Passionate about turning data into insights and insights into action! I speciali
 
 <hr>
 
-![Snake animation](https://github.com/MichelleT-Portfolio/MichelleT-Portfolio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MichelleT-Portfolio/MichelleT-Portfolio/output/github-contribution-grid-snake-dark.svg)
 
 

@@ -3,6 +3,10 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/MichelleT.Portfolio/count.svg" alt="Visitor's Count" />
 </div>
+
+<div style="text-align: center;">
+
+</div>
 <img src="https://github.com/MichelleT-Portfolio/MichelleT-Portfolio/blob/main/Michelle%20Tzeng.png" alt="my creative profile pic">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=c486d0&duration=4000&lines=Hi+There!+👋;+I'm+Michelle+Tzeng!;" />

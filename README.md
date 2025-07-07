@@ -1,10 +1,5 @@
 ## Hi there 👋
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/MichelleT.Portfolio/count.svg" alt="Visitor's Count" />
-</div>
 
-<div style="text-align: center;">
 
 </div>
 <img src="https://github.com/MichelleT-Portfolio/MichelleT-Portfolio/blob/main/Michelle%20Tzeng.png" alt="my creative profile pic">

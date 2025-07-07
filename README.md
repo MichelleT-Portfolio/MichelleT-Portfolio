@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=c486d0&duration=4000&lines=Hi+There!+👋;+I'm+Michelle+Tzeng!;" />
 </h1>
 
-### A Marketing Professional devoted to make impactful milestone through data, AI & ML! 
+### A Marketing Professional devoted to make impactful milestone through data, AI & ML! !
 ### Believing data can be interesting and create powerful changes! 
 
 🚀 Marketing Analyst | Data-Driven Strategist | Growth Optimizer
